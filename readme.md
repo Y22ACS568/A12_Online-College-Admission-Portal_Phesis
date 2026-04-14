@@ -1,4 +1,4 @@
-# ARC: College Admission Managment System Project
+# BEC: Online College Admission POrtal Project
 A College Admission Managment System Project made for automating and digitizing the admission process of a college. This project is made using PHP, MySQL, HTML, CSS, Bootstrap, JavaScript, jQuery, Ajax. 
 
 ## Tech Stack
@@ -21,12 +21,12 @@ A College Admission Managment System Project made for automating and digitizing 
 
 ### Credentials for Admin
 username : admin
-Password : Test@123
+Password : admin123
 
 ### Credentials for Student
 
-username : test1@gmail.com
-Password : Test@123
+username : vamsi@gmail.com
+Password : Vamsi@123
 
 
 
