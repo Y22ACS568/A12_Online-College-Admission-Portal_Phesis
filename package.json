@@ -1,0 +1,12 @@
+{
+  "name": "college-admission-management-system-master",
+  "version": "1.0.0",
+  "description": "A College Admission Managment System Project made for automating and digitizing the admission process of a college. This project is made using PHP, MySQL, HTML, CSS, Bootstrap, JavaScript, jQuery, Ajax.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
